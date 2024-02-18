@@ -1,3 +1,6 @@
 [submodule "website-source"]
 	path = website-source
 	url = https://github.com/sidshrivastav/website-source.git
+[submodule "public"]
+	path = public
+	url = https://github.com/sidshrivastav/website-source.git
